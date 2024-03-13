@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+
+}
+
+div{
+    border: 2px solid rgb(0, 0, 0) ;
+    width: 58%;
+    border-radius: 50%;
+    background-color: orangered;
+    
+}
+
+button{
+    background-color: rgb(3, 206, 3);
+    width: 35%;
+    height: 40%;
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid rgb(3, 36, 126);
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+input{
+    
+    width: 85%;
+}
+
+label{
+    border: 2px solid rgb(16, 160, 64);
+    border-radius: 25%;
+    border-width: 4px;
+    background-color: rgb(16, 160, 64);
+    border-width: 10px;
+}
+
